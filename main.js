@@ -14,7 +14,7 @@ function setup(){
     posenet.on("pose", gotPoses)
 }
 function preload(){
-    cacatua = loadImage("cacatua.png")
+    cacatua = loadImage("Cacatua.png")
 }
 function draw(){
     background("lightGray")
